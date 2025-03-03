@@ -27,9 +27,11 @@
 
   .bg-left {
     min-height: 800px;
+    width: 100%;
   }
 
   .bg-right {
     padding: 25px;
+    width: 100%;
   }
 }
