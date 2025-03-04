@@ -99,6 +99,9 @@ a {
   padding-top: 80px;
 }
 
+.a-link {
+  color: #000;
+}
 .bg-left li {
   list-style-type: none;
 }
@@ -133,6 +136,7 @@ a {
   border-radius: 10px;
   margin-bottom: 10px;
   padding: 0 5px;
+  color: #000;
 }
 .m1m1 {
   background-color: #bfe0f3;
