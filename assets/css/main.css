@@ -92,7 +92,7 @@ a {
 
 .bg-left {
   position: relative;
-  min-height: 1010px;
+  min-height: 1074px;
   background-color: #d8f0fc;
   border-top-left-radius: 40px;
   border-top-right-radius: 40px;
@@ -168,8 +168,9 @@ a {
 }
 
 .hoc-van-h1 {
-  width: 90%;
   border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+  width: 60%;
 }
 
 .heading-h2 {
@@ -249,6 +250,7 @@ a {
 }
 
 .bg-nen {
+  width: 100%;
   position: absolute;
   left: 0;
   bottom: 0;
